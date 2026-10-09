@@ -1,0 +1,35 @@
+MUTUAL NON-DISCLOSURE AGREEMENT (NDA)
+
+This Mutual Non-Disclosure Agreement ("Agreement") is entered into on 15th August 2026 ("Effective Date"), by and between:
+
+PARTIES:
+1. TechCore Solutions Ltd., with its principal place of business at Cyber Heights, Hitec City, Hyderabad, India (hereinafter "Disclosing Party" / "TechCore").
+2. DataVibe Systems Inc., with its principal office at Financial District, Gachibowli, Hyderabad, India (hereinafter "Receiving Party" / "DataVibe").
+Together referred to as the "Parties".
+
+1. PURPOSE:
+The Parties wish to explore and evaluate a prospective business relationship and joint venture in the field of Artificial Intelligence and Machine Learning software development ("Authorized Purpose"). In connection with this, each party may disclose confidential proprietary information to the other.
+
+2. DURATION:
+This Agreement shall govern disclosures made for a period of twenty-four (24) months from the Effective Date. The confidentiality obligations under this Agreement shall survive for a period of three (3) years after the expiration or termination of this Agreement.
+
+3. OBLIGATIONS:
+- The receiving party shall hold all Confidential Information in strict confidence and shall not disclose it to any third party without prior written consent.
+- The receiving party shall protect such information with the same degree of care it uses for its own confidential assets, but no less than reasonable care.
+- The receiving party shall limit disclosure strictly to its employees and consultants who need to know such information for the Authorized Purpose and who are bound by confidentiality obligations.
+
+4. PAYMENT / CONSIDERATION:
+Each party acknowledges that the mutual exchange of confidential business information and the covenants contained herein constitute adequate and sufficient legal consideration. No monetary payment or disclosure fees shall be owed between the Parties.
+
+5. TERMINATION:
+Either party may terminate discussions and this Agreement at any time by providing fourteen (14) days written notice. Termination shall not relieve either party of obligations with respect to Confidential Information disclosed prior to termination.
+
+6. REMEDIES AND LIABILITY:
+Any unauthorized use or disclosure of Confidential Information may cause irreparable harm for which monetary damages alone would be inadequate. Accordingly, the non-breaching party shall be entitled to seek injunctive relief in addition to any other available legal remedies.
+
+7. GOVERNING LAW AND JURISDICTION:
+This Agreement shall be interpreted and governed by the laws of India. The courts at Hyderabad shall have exclusive jurisdiction over any legal proceedings arising from this Agreement.
+
+Signed:
+TechCore Solutions Ltd.                         DataVibe Systems Inc.
+Date: 15-08-2026                                Date: 15-08-2026

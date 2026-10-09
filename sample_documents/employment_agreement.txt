@@ -1,0 +1,41 @@
+EMPLOYMENT AGREEMENT
+
+This Employment Agreement (the "Agreement") is entered into on this 1st day of July, 2026 (the "Start Date"), by and between:
+
+PARTIES:
+1. Apex Innovations Private Limited, a company incorporated under the Companies Act with its registered office at Tech Park, Outer Ring Road, Bengaluru, Karnataka (hereinafter referred to as the "Employer").
+2. Mr. Rahul Sharma, residing at Flat 304, Green Meadows, Indiranagar, Bengaluru, Karnataka (hereinafter referred to as the "Employee").
+
+1. PURPOSE OF AGREEMENT:
+The Employer desires to employ the Employee, and the Employee agrees to be employed by the Employer, in the capacity of Senior Software Engineer to design, develop, and maintain high-scale software applications.
+
+2. DURATION / TERM:
+This Agreement commences on 01-07-2026 and shall continue for an initial term of 12 months, after which it shall automatically convert to a regular indefinite full-time employment unless terminated earlier in accordance with the provisions of this Agreement.
+
+3. KEY OBLIGATIONS:
+- The Employee shall faithfully and diligently perform all duties assigned by the Employer and comply with all company policies and professional standards.
+- The Employee shall maintain strict confidentiality regarding all proprietary information, software architectures, algorithms, source codes, customer records, and trade secrets obtained during employment.
+- The Employee shall not engage in any conflicting business or competitive employment during the term of this Agreement.
+
+4. PAYMENT AND COMPENSATION:
+- The Employer shall pay the Employee a monthly gross salary of Rs. 85,000 (Rupees Eighty-Five Thousand Only), subject to statutory tax deductions.
+- The salary shall be credited directly to the Employee bank account on the last business day of each calendar month.
+- Annual performance bonuses may be granted at the sole discretion of the management.
+
+5. TERMINATION:
+- Either party may terminate this Agreement without cause by providing thirty (30) days prior written notice to the other party, or payment of base salary in lieu thereof.
+- The Employer reserves the right to terminate employment immediately without notice in the event of gross misconduct, breach of confidentiality, fraud, or criminal activity.
+
+6. CONFIDENTIALITY:
+The Employee covenants that during the term of employment and for a period of three (3) years thereafter, the Employee will not disclose, publish, or authorize any third party to access confidential proprietary information of the Employer without prior written authorization.
+
+7. INTELLECTUAL PROPERTY:
+All inventions, source code, designs, documentation, and technical works created or conceived by the Employee during the course of employment shall be the sole and exclusive property of the Employer as "work made for hire".
+
+8. DISPUTE RESOLUTION AND GOVERNING LAW:
+This Agreement shall be governed by and construed in accordance with the laws of India. Any disputes arising out of this Agreement shall be referred to arbitration in Bengaluru pursuant to the Arbitration and Conciliation Act, 1996.
+
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the date first above written.
+
+Employer: Apex Innovations Pvt. Ltd.           Employee: Rahul Sharma
+Date: 01-07-2026                               Date: 01-07-2026

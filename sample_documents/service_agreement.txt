@@ -1,0 +1,41 @@
+MASTER SOFTWARE SERVICES AGREEMENT
+
+This Master Services Agreement ("Agreement") is made effective as of 1st September 2026 ("Effective Date") by and between:
+
+PARTIES:
+1. Alpha Retail Enterprises ("Client"), located at Nariman Point, Mumbai, Maharashtra.
+2. CloudScale Technologies Private Limited ("Service Provider"), located at Vashi Infotech Park, Navi Mumbai, Maharashtra.
+
+1. PURPOSE:
+Client engages Service Provider to design, architect, migrate, and deploy a scalable microservices cloud backend infrastructure and e-commerce payment integration.
+
+2. DURATION:
+The term of this project shall be six (6) months, commencing on 01-09-2026 and concluding on 28-02-2027, unless extended by mutual written consent or terminated earlier in accordance with this Agreement.
+
+3. PAYMENT TERMS:
+- Total Project Consideration: Rs. 4,50,000 (Rupees Four Lakhs Fifty Thousand Only) plus applicable GST.
+- Payment Milestones:
+  * Milestone 1: Rs. 1,35,000 (30%) due upon contract signing and architecture approval.
+  * Milestone 2: Rs. 1,80,000 (40%) due upon completion of staging deployment and User Acceptance Testing (UAT).
+  * Milestone 3: Rs. 1,35,000 (30%) due upon final production launch and handover.
+- Invoices are payable within 15 days of submission. Late payments shall incur interest at 1.5% per month.
+
+4. KEY OBLIGATIONS:
+- Service Provider Obligations: Deliver milestone deliverables according to the agreed project specification; provide 30 days post-launch warranty support; ensure 99.9% uptime architecture.
+- Client Obligations: Provide required cloud access credentials, technical feedback within 3 business days, and timely approvals for milestones.
+
+5. TERMINATION:
+- Either party may terminate this Agreement immediately upon written notice if the other party commits a material breach and fails to cure such breach within fifteen (15) days of receiving written notice.
+- Client may terminate for convenience by providing thirty (30) days advance written notice, subject to compensating Service Provider for all completed work up to the termination date.
+
+6. LIMITATION OF LIABILITY:
+Neither party shall be liable for indirect, incidental, or consequential damages. The maximum aggregate liability of Service Provider under this Agreement shall not exceed the total fees actually paid by Client.
+
+7. INTELLECTUAL PROPERTY:
+Upon receipt of full payment, all custom source code, documentation, and deliverables shall become the exclusive intellectual property of the Client. Service Provider retains ownership of its pre-existing tools, libraries, and frameworks.
+
+8. DISPUTE RESOLUTION & GOVERNING LAW:
+Disputes shall first be submitted to mutual mediation. If unresolved within 30 days, disputes shall be settled by binding arbitration in Mumbai under Indian Arbitration law. Governing law is the law of India.
+
+Client: Alpha Retail Enterprises                Service Provider: CloudScale Technologies
+Date: 01-09-2026                                Date: 01-09-2026

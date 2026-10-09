@@ -1,0 +1,44 @@
+MASTER COMMERCIAL CONTRACT AND SERVICE LEVEL AGREEMENT
+
+SECTION 1: RECITALS AND PARTIES
+This Master Commercial Contract ("Contract") is entered into on this 1st day of November, 2026 ("Effective Date") by and between Horizon Global Enterprises Inc., a corporation with registered offices at Manhattan, New York ("Client"), and Matrix Cloud Technologies Pvt. Ltd., having its principal office at Cyber City, Gurugram, India ("Vendor"). Client and Vendor are collectively referred to as "Parties".
+
+SECTION 2: PURPOSE AND SCOPE OF WORK
+Client desires to procure high-availability enterprise cloud migration, data engineering pipelines, artificial intelligence API integration, and ongoing infrastructure maintenance. Vendor agrees to deliver the services, software deliverables, and service levels set forth in this Contract and accompanying Statements of Work (SOW).
+
+SECTION 3: TERM AND DURATION
+The initial term of this Contract shall commence on 01-11-2026 and remain in effect for a duration of thirty-six (36) months, ending on 31-10-2029. The Contract may be renewed for successive twelve-month terms upon ninety (90) days prior written notice.
+
+SECTION 4: PAYMENT TERMS AND INVOICING
+4.1 Professional Fees: Client shall pay Vendor a recurring quarterly service fee of Rs. 18,00,000 (Rupees Eighteen Lakhs Only), equivalent to Rs. 6,00,000 per month.
+4.2 Milestone Payments: For specialized AI deployments, milestone sums totaling Rs. 12,00,000 shall be invoiced upon successful UAT sign-off.
+4.3 Payment Timelines: Invoices are payable net 30 days from date of receipt. Late payments shall incur 1.0% interest per month.
+
+SECTION 5: KEY OPERATIONAL OBLIGATIONS
+5.1 Vendor Obligations: Maintain 99.95% system uptime; provide 24x7 Tier-1 and Tier-2 technical support; resolve critical Severity-1 incidents within two (2) hours; adhere to ISO 27001 data security compliance.
+5.2 Client Obligations: Designate a single point of technical contact; provide required access tokens and API credentials within five (5) business days; review deliverables within ten (10) business days.
+
+SECTION 6: TERMINATION CONDITIONS
+6.1 Termination for Convenience: Either party may terminate this Contract without cause by giving ninety (90) days prior written notice.
+6.2 Termination for Cause: Either party may terminate immediately upon written notice if the other party commits a material breach and fails to cure such breach within thirty (30) days of written notice.
+6.3 Bankruptcy: Either party may terminate immediately if the other party enters into liquidation, bankruptcy, or insolvency proceedings.
+
+SECTION 7: CONFIDENTIALITY AND DATA PROTECTION
+7.1 Confidential Information: All business data, customer records, source codes, technical architectures, and financial data shall be treated as strictly confidential.
+7.2 Protection Standard: Each party shall exercise reasonable care to prevent unauthorized disclosure.
+7.3 Survival: Confidentiality obligations shall survive termination or expiration of this Contract for a period of five (5) years.
+
+SECTION 8: INTELLECTUAL PROPERTY RIGHTS
+8.1 Client Ownership: All custom code, algorithms, schemas, reports, and architectures developed specifically for Client shall be the exclusive property of Client.
+8.2 Vendor Pre-existing IP: Vendor retains all rights in its pre-existing libraries, toolkits, and generic machine learning frameworks.
+
+SECTION 9: REPRESENTATIONS, WARRANTIES AND LIABILITIES
+9.1 Warranty: Vendor warrants that the services will be performed in a professional, workmanlike manner compliant with industry standards.
+9.2 Limitation of Liability: Neither party shall be liable for lost profits, loss of data, or indirect damages. Total cumulative liability of either party shall not exceed total fees paid in the preceding six (6) months.
+
+SECTION 10: DISPUTE RESOLUTION AND JURISDICTION
+Any dispute, controversy, or claim arising out of or relating to this Contract shall be resolved through good faith negotiations. If unresolved after thirty (30) days, the dispute shall be resolved through binding international arbitration in New Delhi under the Rules of Arbitration of the Indian Council of Arbitration (ICA). Governing law shall be the laws of India.
+
+IN WITNESS WHEREOF, the authorized representatives have executed this Contract.
+Horizon Global Enterprises Inc.                 Matrix Cloud Technologies Pvt. Ltd.
+Date: 01-11-2026                                Date: 01-11-2026
