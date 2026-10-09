@@ -7,3 +7,5 @@ venv/
 .venv/
 .pytest_cache/
 .vscode/
+*.log
+.chrome_profile/
